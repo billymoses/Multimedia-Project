@@ -20,3 +20,7 @@ Unity
 Unity & Blender (Substitute)
 
 All: Laporan
+
+Link Github: https://github.com/mrgnight/Multimedia/branches
+
+Link GoogleDrive: https://drive.google.com/drive/folders/1DCUKPhcMywSK1XOi7KTnyrjXc2kIOwEt?usp=sharing
