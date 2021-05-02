@@ -1,5 +1,5 @@
 # Multimedia VR
-Isinya palpale papale papale
+Untuk isi yang lebih detail (per Tugas): LIHAT Branches
 
 Anggota Kelompok & Tasks:
 
