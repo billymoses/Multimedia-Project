@@ -5,7 +5,7 @@ Anggota Kelompok & Tasks:
 
 2301885440 - Yorgin Ariyanto Pada
 
-UI & Blender
+UI
 
 2301909730 - Andre William
 
